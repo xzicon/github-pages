@@ -1,0 +1,40 @@
+#root1{
+    height: 900px;
+}
+#root2{
+    height: 60px;
+    width:650px ;
+}
+#root3{
+    width: 600px;
+    height: 35px;
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    border-left: 5px #008080 solid;
+}
+#root4{
+    float: right;
+    margin-top: -25px ;
+    margin-right: 60px;
+}
+#root5{
+    height: 60px;
+    width: 650px;
+
+}
+#root6{
+    width: 600px;
+    height: 35px;
+    background-color: #c0c0c0;
+    margin-top: 15px;
+    border-left: 5px #999999 solid;
+}
+#root7{
+    float: right;
+    margin-top: -25px;
+    margin-right:60px ;
+}
+#root8{
+    float: right;
+    margin-top: -30px;
+}
